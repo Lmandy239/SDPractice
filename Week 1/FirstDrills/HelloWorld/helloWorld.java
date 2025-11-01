@@ -1,4 +1,4 @@
-package FirstDrills.HelloWorld;
+
 public class helloWorld {
 
 public static void main(String[] args){

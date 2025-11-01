@@ -1,4 +1,4 @@
-package FirstDrills.Variables;
+
 
 public class StudentScores {
     

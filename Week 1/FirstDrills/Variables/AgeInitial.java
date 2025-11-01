@@ -1,4 +1,3 @@
-package FirstDrills.Variables;
 
 public class AgeInitial {
     public static void main(String[] args){
